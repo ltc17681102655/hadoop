@@ -7,6 +7,7 @@
     <file url="file://$PROJECT_DIR$/../../tuboshi/ubt-to-hadoop/ubt-kafka-hdfs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../tuboshi/ubt-to-hadoop/ubt-kafka-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../../tuboshi/ubt-to-hadoop/ubt-mock-data" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HadoopDemo" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../../hadoop/HadoopDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tuboshi/ubt-to-hadoop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tuboshi/ubt-to-hadoop/ubt-kafka-collector" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tuboshi/ubt-to-hadoop/ubt-kafka-hdfs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tuboshi/ubt-to-hadoop/ubt-kafka-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../tuboshi/ubt-to-hadoop/ubt-mock-data" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

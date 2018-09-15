@@ -2,7 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/../../hadoop/HadoopDemo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../hadoop/utils" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/../../tuboshi/ubt-to-hadoop" vcs="Git" />
   </component>

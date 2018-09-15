@@ -6,7 +6,6 @@
         <option value="$PROJECT_DIR$/hdfs/pom.xml" />
         <option value="$PROJECT_DIR$/../../tuboshi/ubt-to-hadoop/pom.xml" />
         <option value="$PROJECT_DIR$/../../hadoop/utils/pom.xml" />
-        <option value="$PROJECT_DIR$/../../hadoop/HadoopDemo/pom.xml" />
       </list>
     </option>
   </component>
